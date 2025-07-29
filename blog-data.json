@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Welcome to My Dev Blog",
+      "date": "2025-07-27",
+      "content": "This is my very first blog post.\nI'll be using this space to share my thoughts, projects, and progress as I grow as a developer.\nExpect walkthroughs of personal builds, code snippets, and lessons learned from the field.",
+      "tags": ["introduction", "developer", "fullstack"]
+    },
+    {
+      "id": 2,
+      "title": "Driver Mapping: Kernel Mode Exploits",
+      "date": "2025-07-27",
+      "content": "Driver mapping is a technique used to load unsigned kernel drivers by bypassing Windows signature enforcement.\nTools like KDMapper or GhostMapper can exploit vulnerable drivers to execute shellcode at the kernel level.\nThis method is often used in red teaming and malware analysis to understand privilege escalation tactics.",
+      "tags": ["kernel", "projects", "learning"]
+    },
+    {
+      "id": 3,
+      "title": "Prefetch: The Swiss Army Knife for Forensics",
+      "date": "2025-07-27",
+      "content": "Windows Prefetch files record executable file launches to speed up boot and application start time.\nForensic analysts use them to determine program execution history, including last run time and file paths.\nFor example, a prefetch entry for `mimikatz.exe` strongly indicates credential dumping activity.",
+      "tags": ["forensics", "prefetch", "execution"]
+    }
+  ]
+  
